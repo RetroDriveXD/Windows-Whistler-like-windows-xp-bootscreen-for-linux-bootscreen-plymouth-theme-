@@ -1,9 +1,9 @@
 
-# Plymouth XP Theme
+# Plymouth Whistler like windows xp Theme
 
 ### Description
 
-**Plymouth XP Theme** is a Plymouth boot theme inspired by the classic Windows XP boot screen. It brings a nostalgic touch to your Linux boot process with a design that closely mimics the iconic Windows XP loading screen.
+**Plymouth Whistler like win XP Theme** is a Plymouth boot theme inspired by the classic Windows XP boot screen. It brings a nostalgic touch to your Linux boot process with a design that closely mimics the iconic Windows XP loading screen.
 
 ### Features
 
@@ -48,3 +48,4 @@ We welcome pull requests! If you have suggestions for improvements or new featur
 
 - Inspired by the original Windows XP boot screen.
 - Created by FraioVeio
+- Modded by RetroDrive
