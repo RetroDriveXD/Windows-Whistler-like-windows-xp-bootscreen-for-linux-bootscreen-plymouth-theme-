@@ -1,0 +1,37 @@
+[Plymouth Theme]
+Name=win
+Description=Windows bootscreen  but if microsoft kept  their 9x logo and xp loading bar inspired theme
+ModuleName=two-step
+
+[two-step]
+ScaleBackgroundImage=true
+ImageDir=/usr/share/plymouth/themes/win
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x000000
+WatermarkHorizontalAlignment=0.5
+WatermarkVerticalAlignment=0.5
+HorizontalAlignment=0.5
+VerticalAlignment=0.55
+
+[boot-up]
+UseAnimation=true
+
+[shutdown]
+UseAnimation=false
+
+[reboot]
+UseAnimation=false
+
+[updates]
+UseAnimation=true
+
+[system-upgrade]
+UseAnimation=true
+
+[firmware-upgrade]
+UseAnimation=true
+
+[system-reset]
+UseAnimation=true
+[script]
+Loop=true
